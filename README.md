@@ -1,4 +1,4 @@
-# TODO LIST 
+# TODO LIST 📃
 
 ## Features
 - Add Tasks: Easily add new tasks with a title and optional description.
@@ -10,4 +10,4 @@
 - Frontend: HTML, CSS, JavaScript
 
 [click here](https://prajikta08.github.io/to-do-list/todo.html)
-[TODO List Application Screenshot](screenshot.png)
+
