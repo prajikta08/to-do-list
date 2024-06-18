@@ -7,7 +7,7 @@
 
 
 ## Technologies Used
-- Frontend: HTML, CSS, JavaScript
+- HTML, CSS, JavaScript
 
 [click here](https://prajikta08.github.io/to-do-list/todo.html)
 
